@@ -1,0 +1,14 @@
+C:\Users\Léo\Documents\Senac\alg2\1094\bin\Debug\net8.0\1094.exe
+C:\Users\Léo\Documents\Senac\alg2\1094\bin\Debug\net8.0\1094.deps.json
+C:\Users\Léo\Documents\Senac\alg2\1094\bin\Debug\net8.0\1094.runtimeconfig.json
+C:\Users\Léo\Documents\Senac\alg2\1094\bin\Debug\net8.0\1094.dll
+C:\Users\Léo\Documents\Senac\alg2\1094\bin\Debug\net8.0\1094.pdb
+C:\Users\Léo\Documents\Senac\alg2\1094\obj\Debug\net8.0\1094.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Léo\Documents\Senac\alg2\1094\obj\Debug\net8.0\1094.AssemblyInfoInputs.cache
+C:\Users\Léo\Documents\Senac\alg2\1094\obj\Debug\net8.0\1094.AssemblyInfo.cs
+C:\Users\Léo\Documents\Senac\alg2\1094\obj\Debug\net8.0\1094.csproj.CoreCompileInputs.cache
+C:\Users\Léo\Documents\Senac\alg2\1094\obj\Debug\net8.0\1094.dll
+C:\Users\Léo\Documents\Senac\alg2\1094\obj\Debug\net8.0\refint\1094.dll
+C:\Users\Léo\Documents\Senac\alg2\1094\obj\Debug\net8.0\1094.pdb
+C:\Users\Léo\Documents\Senac\alg2\1094\obj\Debug\net8.0\1094.genruntimeconfig.cache
+C:\Users\Léo\Documents\Senac\alg2\1094\obj\Debug\net8.0\ref\1094.dll
