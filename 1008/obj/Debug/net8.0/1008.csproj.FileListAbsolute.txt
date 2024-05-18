@@ -1,0 +1,14 @@
+C:\Users\leona\Documents\Projetos VS\1008\bin\Debug\net8.0\1008.exe
+C:\Users\leona\Documents\Projetos VS\1008\bin\Debug\net8.0\1008.deps.json
+C:\Users\leona\Documents\Projetos VS\1008\bin\Debug\net8.0\1008.runtimeconfig.json
+C:\Users\leona\Documents\Projetos VS\1008\bin\Debug\net8.0\1008.dll
+C:\Users\leona\Documents\Projetos VS\1008\bin\Debug\net8.0\1008.pdb
+C:\Users\leona\Documents\Projetos VS\1008\obj\Debug\net8.0\1008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Documents\Projetos VS\1008\obj\Debug\net8.0\1008.AssemblyInfoInputs.cache
+C:\Users\leona\Documents\Projetos VS\1008\obj\Debug\net8.0\1008.AssemblyInfo.cs
+C:\Users\leona\Documents\Projetos VS\1008\obj\Debug\net8.0\1008.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\Projetos VS\1008\obj\Debug\net8.0\1008.dll
+C:\Users\leona\Documents\Projetos VS\1008\obj\Debug\net8.0\refint\1008.dll
+C:\Users\leona\Documents\Projetos VS\1008\obj\Debug\net8.0\1008.pdb
+C:\Users\leona\Documents\Projetos VS\1008\obj\Debug\net8.0\1008.genruntimeconfig.cache
+C:\Users\leona\Documents\Projetos VS\1008\obj\Debug\net8.0\ref\1008.dll

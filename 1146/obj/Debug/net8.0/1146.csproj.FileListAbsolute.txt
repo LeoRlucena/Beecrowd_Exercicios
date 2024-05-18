@@ -1,0 +1,14 @@
+C:\Users\leona\Documents\Projetos VS\1146\bin\Debug\net8.0\1146.exe
+C:\Users\leona\Documents\Projetos VS\1146\bin\Debug\net8.0\1146.deps.json
+C:\Users\leona\Documents\Projetos VS\1146\bin\Debug\net8.0\1146.runtimeconfig.json
+C:\Users\leona\Documents\Projetos VS\1146\bin\Debug\net8.0\1146.dll
+C:\Users\leona\Documents\Projetos VS\1146\bin\Debug\net8.0\1146.pdb
+C:\Users\leona\Documents\Projetos VS\1146\obj\Debug\net8.0\1146.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Documents\Projetos VS\1146\obj\Debug\net8.0\1146.AssemblyInfoInputs.cache
+C:\Users\leona\Documents\Projetos VS\1146\obj\Debug\net8.0\1146.AssemblyInfo.cs
+C:\Users\leona\Documents\Projetos VS\1146\obj\Debug\net8.0\1146.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\Projetos VS\1146\obj\Debug\net8.0\1146.dll
+C:\Users\leona\Documents\Projetos VS\1146\obj\Debug\net8.0\refint\1146.dll
+C:\Users\leona\Documents\Projetos VS\1146\obj\Debug\net8.0\1146.pdb
+C:\Users\leona\Documents\Projetos VS\1146\obj\Debug\net8.0\1146.genruntimeconfig.cache
+C:\Users\leona\Documents\Projetos VS\1146\obj\Debug\net8.0\ref\1146.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leona\\Documents\\Projetos VS\\1066\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CA9E99-2D53-471A-A2DB-209E10E7B544}|1066.csproj|c:\\users\\leona\\documents\\projetos vs\\1066\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CA9E99-2D53-471A-A2DB-209E10E7B544}|1066.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Documents\\Projetos VS\\1066\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\leona\\Documents\\Projetos VS\\1066\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAgwHEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T21:33:38.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

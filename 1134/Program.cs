@@ -6,34 +6,35 @@ namespace _1134
     {
         static void Main(string[] args)
         {
+            int combustivel = int.Parse(Console.ReadLine());
             int gasolina = 0;
             int alcool = 0;
             int diesel = 0;
 
-            int tipo = int.Parse(Console.ReadLine());
-
-            while (tipo != 4)
+            while (combustivel != 1 && combustivel != 2 && combustivel != 3 && combustivel != 4)
             {
-                if (tipo == 1)
+                switch (combustivel)
                 {
-                    alcool += 1;
+                    case 1:
+                        alcool += 1;
+                        combustivel = int.Parse(Console.ReadLine());
+                        break;
+                    case 2:
+                        gasolina += 1;
+                        combustivel = int.Parse(Console.ReadLine());
+                        break;
+                    case 3:
+                        diesel += 1;
+                        combustivel = int.Parse(Console.ReadLine());
+                        break;
+                    case 4:
+                        Console.WriteLine("MUITO OBRIGADO");
+                        Console.WriteLine("Alcool: " + alcool);
+                        Console.WriteLine("Gasolina: " + gasolina);
+                        Console.WriteLine("Diesel: " + diesel);
+                        break;
                 }
-                else if (tipo == 2)
-                {
-                    gasolina += 1;
-                }
-                else if (tipo == 3)
-                {
-                    diesel += 1;
-                }
-
-                tipo = int.Parse(Console.ReadLine());
             }
-
-            Console.WriteLine("MUITO OBRIGADO");
-            Console.WriteLine("Alcool: " + alcool);
-            Console.WriteLine("Gasolina: " + gasolina);
-            Console.WriteLine("Diesel: " + diesel);
         }
     }
 }
